@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\KAMBAKHSH\Desktop\Computer-Vision-projects\C++\image denosing\build\CMakeFiles\4df8e9687f8c9a9ea8d2b020711273b7\RUN_TESTS_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9C0651C7-F3AB-36AB-90E1-034DCCC6E2BA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
