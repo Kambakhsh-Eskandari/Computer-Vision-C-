@@ -1,9 +1,0 @@
-C:/Users/KAMBAKHSH/Desktop/Computer-Vision-projects/C++/image denosing/build/CMakeFiles/Experimental.dir
-C:/Users/KAMBAKHSH/Desktop/Computer-Vision-projects/C++/image denosing/build/CMakeFiles/Nightly.dir
-C:/Users/KAMBAKHSH/Desktop/Computer-Vision-projects/C++/image denosing/build/CMakeFiles/Continuous.dir
-C:/Users/KAMBAKHSH/Desktop/Computer-Vision-projects/C++/image denosing/build/CMakeFiles/NightlyMemoryCheck.dir
-C:/Users/KAMBAKHSH/Desktop/Computer-Vision-projects/C++/image denosing/build/CMakeFiles/opencvtest.dir
-C:/Users/KAMBAKHSH/Desktop/Computer-Vision-projects/C++/image denosing/build/CMakeFiles/PACKAGE.dir
-C:/Users/KAMBAKHSH/Desktop/Computer-Vision-projects/C++/image denosing/build/CMakeFiles/RUN_TESTS.dir
-C:/Users/KAMBAKHSH/Desktop/Computer-Vision-projects/C++/image denosing/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/KAMBAKHSH/Desktop/Computer-Vision-projects/C++/image denosing/build/CMakeFiles/ZERO_CHECK.dir
